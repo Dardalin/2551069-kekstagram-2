@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Дарина  Далинская](https://up.htmlacademy.ru/javascript-individual/2/user/2551069).
-* Наставник: `Неизвестно`.
+* Наставник: [александр](https://up.htmlacademy.ru/javascript-individual/2/user/2551069).
 
 ---
 
